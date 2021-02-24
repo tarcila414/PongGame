@@ -2,7 +2,8 @@
 
 > It's a simple application using pygame
 
-![Badge](https://img.shields.io/static/v1?label=python&message=1.22.5&color=black&style=for-the-badge&logo=Python) 
+![Badge](https://img.shields.io/static/v1?label=python&message=3.8.5&color=blue&style=for-the-badge&logo=PYTHON)   ![Badge](https://img.shields.io/static/v1?label=pygame&message=2.0.1&color=green&style=for-the-badge&logo=PYGAME) 
+
 
 This application is a version of Pong game created using pygame. 
 
@@ -15,10 +16,15 @@ The player gains points every time the ball touches the bar and loses energy eve
 
 ## RUN :arrow_forward:
 
-Make sure you have python installed at your computer.
+Make sure you have python and pygame installed at your computer.
 
 ```sh
 python main.py
+```
+or 
+
+```sh
+python3 main.py
 ```
 
 ## Meta :raising_hand:
